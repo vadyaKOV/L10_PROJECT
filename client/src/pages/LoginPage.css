@@ -1,0 +1,87 @@
+.login-page {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 120px 20px 60px;
+    background: var(--bg-secondary);
+}
+
+.login-container {
+    background: var(--bg-primary);
+    padding: 50px 45px;
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-lg);
+    width: 100%;
+    max-width: 420px;
+}
+
+.login-container h2 {
+    text-align: center;
+    font-size: 2rem;
+    color: var(--text-dark);
+    margin-bottom: 8px;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+
+.login-subtitle {
+    text-align: center;
+    color: var(--text-muted);
+    margin-bottom: 35px;
+    font-size: 0.9rem;
+}
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+}
+
+.login-form input {
+    padding: 16px 20px;
+    border: 1px solid var(--border-light);
+    border-radius: var(--radius-sm);
+    font-size: 0.95rem;
+    background: var(--bg-secondary);
+    transition: all 0.3s;
+}
+
+.login-form input:focus {
+    outline: none;
+    border-color: var(--accent-color);
+    background: var(--bg-primary);
+}
+
+.login-form button {
+    background: var(--text-dark);
+    color: white;
+    padding: 16px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    letter-spacing: 1px;
+    border-radius: var(--radius-sm);
+    margin-top: 10px;
+}
+
+.login-form button:hover {
+    background: var(--accent-color);
+}
+
+.toggle-text {
+    text-align: center;
+    margin-top: 25px;
+    color: var(--text-light);
+    font-size: 0.9rem;
+}
+
+.toggle-btn {
+    background: none;
+    color: var(--accent-color);
+    font-weight: 600;
+    margin-left: 8px;
+}
+
+.toggle-btn:hover {
+    text-decoration: underline;
+}
