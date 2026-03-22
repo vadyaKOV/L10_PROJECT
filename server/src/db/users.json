@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1774137834168,
+    "name": "Кузнецова Мария",
+    "email": "vadim.kovalevskiy.2007@yandex.by",
+    "phone": "+79991112233",
+    "password": "122331",
+    "cart": [
+      {
+        "productId": 2,
+        "count": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Кольцо «Венеция»",
+    "description": "Серебро 925, позолота, фианит",
+    "price": 4500,
+    "category": "rings",
+    "isAvailable": true,
+    "image": "https://placehold.co/200/ffd700/000000?text=Ring",
+    "size": "16"
+  },
+  {
+    "id": 2,
+    "title": "Кольцо «Империал»",
+    "description": "Золото 585, бриллиант 0.3 карат",
+    "price": 45000,
+    "category": "rings",
+    "isAvailable": true,
+    "image": "https://placehold.co/200/ffd700/000000?text=Ring+Gold",
+    "size": "17"
+  },
+  {
+    "id": 3,
+    "title": "Кольцо «Солнечный»",
+    "description": "Серебро 925, янтарь",
+    "price": 2800,
+    "category": "rings",
+    "isAvailable": true,
+    "image": "https://placehold.co/200/ffb300/000000?text=Amber+Ring",
+    "size": "18"
+  },
+  {
+    "id": 4,
+    "title": "Цепочка «Итальянка»",
+    "description": "Серебро 925, длина 50 см",
+    "price": 3200,
+    "category": "necklaces",
+    "isAvailable": true,
+    "image": "https://placehold.co/200/c0c0c0/000000?text=Necklace",
+    "size": "50см"
+  },
+  {
+    "id": 5,
+    "title": "Колье «Королева»",
+    "description": "Золото 585, жемчуг, фианиты",
+    "price": 28000,
+    "category": "necklaces",
+    "isAvailable": true,
+    "image": "https://placehold.co/200/ffd700/000000?text=Pearl+Necklace",
+    "size": "45см"
+  },
+  {
+    "id": 6,
+    "title": "Подвеска «Сердце»",
+    "description": "Серебро 925, позолота",
+    "price": 1800,
+    "category": "pendants",
+    "isAvailable": true,
+    "image": "https://placehold.co/200/ffd700/000000?text=Heart",
+    "size": ""
+  },
+  {
+    "id": 7,
+    "title": "Серьги-гвоздики «Мили»",
+    "description": "Золото 585, бриллианты",
+    "price": 15000,
+    "category": "earrings",
+    "isAvailable": true,
+    "image": "https://placehold.co/200/ffd700/000000?text=Earrings",
+    "size": ""
+  },
+  {
+    "id": 8,
+    "title": "Серьги «Капля»",
+    "description": "Серебро 925, фианиты",
+    "price": 2200,
+    "category": "earrings",
+    "isAvailable": true,
+    "image": "https://placehold.co/200/c0c0c0/000000?text=Drops",
+    "size": ""
+  },
+  {
+    "id": 9,
+    "title": "Браслет «Нежность»",
+    "description": "Серебро 925, позолота, циркон",
+    "price": 3500,
+    "category": "bracelets",
+    "isAvailable": true,
+    "image": "https://placehold.co/200/ffd700/000000?text=Bracelet",
+    "size": "17см"
+  },
+  {
+    "id": 10,
+    "title": "Браслет «Премиум»",
+    "description": "Золото 585, плетение «Ломбард»",
+    "price": 22000,
+    "category": "bracelets",
+    "isAvailable": true,
+    "image": "https://placehold.co/200/ffd700/000000?text=Gold+Bracelet",
+    "size": "19см"
+  },
+  {
+    "id": 11,
+    "title": "Часы «Классика»",
+    "description": "Сталь, позолота, кварцевый механизм",
+    "price": 8500,
+    "category": "watches",
+    "isAvailable": true,
+    "image": "https://placehold.co/200/ffd700/000000?text=Watch",
+    "size": "38мм"
+  },
+  {
+    "id": 12,
+    "title": "Часы «Элегант»",
+    "description": "Золото 585, кожаный ремешок",
+    "price": 35000,
+    "category": "watches",
+    "isAvailable": true,
+    "image": "https://placehold.co/200/ffd700/000000?text=Gold+Watch",
+    "size": "40мм"
+  }
+]
